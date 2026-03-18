@@ -1,0 +1,17 @@
+{
+  "section": "web",
+  "category": "teamsites",
+  "n": 1,
+  "title": "Team Hub Website",
+  "img": "ccmisite_demo.webp",
+  "desc": "Professional front-end portal for an internal data team — showcasing tools, projects and team info with a clean, responsive layout.",
+  "code": "https://github.com/Naadir-Dev-Portfolio/Team-Hub-Website/tree/main",
+  "demo": "https://ccmiteamsite-by-naadir.netlify.app/",
+  "details": "https://github.com/Naadir-Dev-Portfolio/Team-Hub-Website/blob/main/README.md",
+  "tags": [
+    "web",
+    "html",
+    "css",
+    "js"
+  ]
+}
