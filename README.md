@@ -2,15 +2,15 @@
 
 > Professional team dashboard integrating Power Apps, Power BI, documentation, and production system access.
 
-[![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?style=flat-square&logo=html5)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Interactivity-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-Structure orange?style=flat square&logo=html5)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-Styling blue?style=flat square&logo=css3)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/JavaScript Interactivity yellow?style=flat square&logo=javascript)](https://developer.mozilla.org/en US/docs/Web/JavaScript)
 
 ---
 
 ## Overview
 
-The CCMI Systems & Data Team Site is a professional, custom-built dashboard designed to consolidate team resources, tools, and workflows in a single integrated hub. Developed by Naadir D for the CCMI team, this application streamlines access to Power Apps, Power BI reports, documentation, code snippets, and production systems.
+The CCMI Systems & Data Team Site is a professional, custom built dashboard designed to consolidate team resources, tools, and workflows in a single integrated hub. Developed by Naadir D for the CCMI team, this application streamlines access to Power Apps, Power BI reports, documentation, code snippets, and production systems.
 
 The site provides a centralized platform for team collaboration, reducing context switching and improving efficiency. It features embedded Microsoft Power Applications, responsive design, toggleable sidebar navigation, and quick links to critical production systems.
 
@@ -20,7 +20,7 @@ The site provides a centralized platform for team collaboration, reducing contex
 
 ### Power Apps Integration
 - Embedded internal CCMI Power Apps for team workflows
-- One-column and two-column layout support
+- One column and two column layout support
 - Launch apps directly or in new tabs
 - Developer versions available (restricted access)
 - Interactive app selector dropdown
@@ -36,7 +36,7 @@ The site provides a centralized platform for team collaboration, reducing contex
 - Centralized access to CCMI documentation
 - Curated code snippet library for common solutions
 - Knowledge base for team reference
-- Easy copy-to-clipboard functionality
+- Easy copy to clipboard functionality
 
 ### Additional Features
 - CCMI Gen AI Assistant integration (requires API key)
@@ -97,26 +97,26 @@ Deploy to any static hosting service:
 
 ## Tech Stack
 
-- HTML5 — Semantic markup and structure
-- CSS3 — Modular stylesheets (global, menu, hero, content, carousel, Power Apps, Power BI)
-- Vanilla JavaScript (ES6) — Dynamic interactions and iframe management
-- Font Awesome — Icon library
-- Microsoft Power Apps — Embedded applications
-- Microsoft Power BI — Embedded reports
-- Streamlit API — Gen AI Assistant integration
+- HTML5, Semantic markup and structure
+- CSS3, Modular stylesheets (global, menu, hero, content, carousel, Power Apps, Power BI)
+- Vanilla JavaScript (ES6), Dynamic interactions and iframe management
+- Font Awesome, Icon library
+- Microsoft Power Apps, Embedded applications
+- Microsoft Power BI, Embedded reports
+- Streamlit API, Gen AI Assistant integration
 
 ---
 
 ## Navigation
 
 **Sidebar Menu:**
-- Home — Main dashboard
-- Power Apps — CCMI applications
-- Power BI Reports — Analytics and dashboards
-- Documentation — Knowledge base
-- Code Snippets — Reusable solutions
-- Gen AI Assistant — AI-powered support
-- Production Systems — Quick links to enterprise tools
+- Home, Main dashboard
+- Power Apps, CCMI applications
+- Power BI Reports, Analytics and dashboards
+- Documentation, Knowledge base
+- Code Snippets, Reusable solutions
+- Gen AI Assistant, AI powered support
+- Production Systems, Quick links to enterprise tools
 
 ---
 
@@ -152,17 +152,17 @@ Website-ccmi-team-site/
 
 ## Key Features
 
-- **Responsive Design** — Adapts to desktop, tablet, and mobile
-- **Modular CSS** — Component-based stylesheets for maintainability
-- **Dynamic JavaScript** — Menu toggles, iframe management, state persistence
-- **Professional UI** — Clean, modern interface with consistent branding
-- **Integration Hub** — Centralized access to all team tools
-- **Quick Access** — Shortcut buttons to frequently used systems
-- **Performance** — Lightweight, fast-loading interface
+- **Responsive Design**, Adapts to desktop, tablet, and mobile
+- **Modular CSS**, Component based stylesheets for maintainability
+- **Dynamic JavaScript**, Menu toggles, iframe management, state persistence
+- **Professional UI**, Clean, modern interface with consistent branding
+- **Integration Hub**, Centralized access to all team tools
+- **Quick Access**, Shortcut buttons to frequently used systems
+- **Performance**, Lightweight, fast loading interface
 
 ---
 
 ## Related Projects
 
-- [Streamlit-AIQuizbot](https://github.com/Naadir-Dev-Portfolio/Streamlit-AIQuizbot)
-- [Streamlit-ccmi-genai](https://github.com/Naadir-Dev-Portfolio/Streamlit-ccmi-genai)
+- [Streamlit AIQuizbot](https://github.com/Naadir Dev Portfolio/Streamlit AIQuizbot)
+- [Streamlit ccmi genai](https://github.com/Naadir Dev Portfolio/Streamlit ccmi genai)
